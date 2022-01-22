@@ -1,0 +1,2 @@
+socket game: https://socket-game-neno.herokuapp.com/
+facebook: https://tranquil-cliffs-88620.herokuapp.com/
